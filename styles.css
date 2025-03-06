@@ -1,4 +1,4 @@
-root {
+ :root {
             --st-patricks-blue: hsla(0, 0%, 0%, 0.7);
             --amaranth-purple: hsl(335, 88%, 38%);
             --royal-blue-dark: #14532d;
@@ -316,4 +316,3 @@ root {
             .footer-top .container { grid-template-columns: 2fr 1.5fr 2fr 1.5fr 1fr; }
             .footer-brand { grid-column: auto; }
         }
-    
